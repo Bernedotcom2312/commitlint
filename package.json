@@ -18,6 +18,9 @@
     "url": "https://github.com/Bernedotcom2312/commitlint/issues"
   },
   "homepage": "https://github.com/Bernedotcom2312/commitlint#readme",
+  "engines": {
+    "node": ">=25"
+  },
   "devDependencies": {
     "@commitlint/cli": "20.5.3",
     "@commitlint/config-conventional": "20.5.3",
